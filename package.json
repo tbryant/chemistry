@@ -1,0 +1,21 @@
+{
+  "name": "Chemistry",
+  "main": "./lib/chemistry",
+  "version": "0.0.0",
+  "description": "Graphical Coding Environment for Atom and three.js",
+  "keywords": [
+    "atom",
+    "three",
+    "three.js",
+    "3d",
+    "webgl"
+  ],
+  "activationCommands": {
+    "atom-workspace": "chemistry:toggle"
+  },
+  "repository": "https://github.com/atom/chemistry",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
